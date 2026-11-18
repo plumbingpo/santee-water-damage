@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santeerestoration.com/sitemap.xml
